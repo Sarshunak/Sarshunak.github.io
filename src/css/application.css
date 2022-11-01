@@ -1,0 +1,34 @@
+application {
+	padding: 9rem 0;
+}
+
+.application .icon-group {
+	margin: 4rem 0;
+	text-align: center;
+}
+
+.application-box {
+	height: 18rem;
+}
+
+.application-box img {
+	max-width: 70%;
+}
+
+.application-box_change img {
+	max-width: 90%;
+}
+
+.application-text h4 {
+	font-size: 2.2rem;
+	font-family: 'HelveticaNeueCyr_bold', sans-serif;
+}
+
+.application-text p {
+	font-size: 1.6rem;
+}
+
+.application .wrapper_btn {
+	margin-top: 3rem;
+	text-align: center;
+}
