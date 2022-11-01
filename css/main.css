@@ -1,0 +1,86 @@
+.main {
+	position: relative;
+	background: url(../img/main.jpg) center no-repeat;
+	background-size: cover;
+	padding-bottom: 4rem;
+}
+
+.main-header {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.main-header_2 {
+	background-color: #000000;
+}
+
+.main-header-block {
+	color: #ffffff;
+}
+
+.main-header-logo {
+	padding: 1.5rem 0rem;
+}
+
+.main-header-logo img {
+	vertical-align: middle;
+	max-height: 100%;
+}
+
+.main-header-logo h4 {
+	padding-left: 1.6rem;
+	vertical-align: middle;
+	font-size: 2rem;
+	display: inline-block;
+}
+
+.main-header-contact {
+	padding: 1.5rem 0rem;
+	font-family: 'HelveticaNeueCyr_bold', sans-serif;
+	font-size: 2.5rem;
+}
+
+.main-header-contact a {
+	display: block;
+	font-size: 2rem;
+	text-decoration: none;
+	color: #87b929;
+}
+
+.main-wrapper {
+	margin-top: 10rem;
+}
+
+.main-content {
+	position: relative;
+}
+
+.main-title {
+	color: #ffffff;
+	font-size: 3.7rem;
+	margin-bottom: 3rem;
+	font-family: 'HelveticaNeueCyr_bold', sans-serif;
+	text-shadow: 1px 3px 0px #272b25;
+}
+
+.main-title span {
+	text-shadow: none;
+	display: block;
+	margin-top: 1rem;
+	font-size: 3rem;
+	margin-bottom: 2.4rem;
+}
+
+.main-img_item-1 {
+	margin-left: -2.2rem;
+	display: block;
+	margin-top: 4.5rem;
+	overflow: hidden;
+	max-width: 100%;
+}
+
+.main-img_item-2 {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	max-width: 100%;
+}
